@@ -9,8 +9,8 @@ const SignUp = () => {
                     <p style={{ fontSize: '25px' }}>tunggu apalagi?</p>
                     <h5 style={{ fontSize: '30px' }}>DAFTAR SEKARANG JUGA!</h5>
                     <p style={{ fontSize: '25px' }}>mumpung masih ada promo</p>
-                    <p style={{ fontSize: '25px' }}>IDR 100.000</p>
-                    <p style={{ fontSize: '25px' }}>IDR 50.000</p>
+                    <del><p style={{ fontSize: '25px' }}>IDR 100.000</p></del>
+                    <del><p style={{ fontSize: '25px' }}>IDR 50.000</p></del>
                     <h1 style={{ fontSize: '60px', color: 'black' }}>IDR 0, -</h1>
                     <p style={{ fontSize: '25px' }}>GASS PWOLL !</p>
                 </div>
