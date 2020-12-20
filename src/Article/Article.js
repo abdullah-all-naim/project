@@ -29,7 +29,7 @@ const Article = () => {
                 
                 {
                     article.map(x =>
-                        <div className='d-flex justify-content-center col-md-2 col-6 m-4 py-4' style={{backgroundColor:'#E5E5E5'}}>
+                        <div className='d-flex justify-content-center col-4 col-lg-2 m-5 py-4' style={{backgroundColor:'#E5E5E5'}}>
                             <div className='text-center bg-white py-4'>
                                 <div>
                                     <img src={x.image} alt="" />
