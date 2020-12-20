@@ -15,7 +15,7 @@ const SignUp = () => {
                     <p style={{ fontSize: '25px' }}>GASS PWOLL !</p>
                 </div>
                 <div className="col-md-6">
-                    <img style={{ width: '450px' }} src={frame} alt="" />
+                    <img className="w-100" src={frame} alt="" />
                 </div>
             </div>
             <div style={{ backgroundColor: 'rgba(243, 52, 89, 1)', borderRadius: '10px', marginBottom: '20px', cursor: 'pointer' }}>
